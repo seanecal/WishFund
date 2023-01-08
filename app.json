@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "template-typescript-bottom-tabs-supabase-auth-flow",
-    "slug": "template-typescript-bottom-tabs-supabase-auth-flow",
+    "name": "WishFund",
+    "slug": "wishfund",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
